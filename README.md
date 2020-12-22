@@ -9,4 +9,4 @@ The aim was to create a web-site in PHP for a fake enterprise who sell informati
 
 
 
-Tous les fichiers PHP, CSS et SQL sont rangés dans le même dossier 
+Tous les fichiers PHP, CSS et SQL sont rangés dans le même dossier (ecommerce)
