@@ -1,0 +1,84 @@
+#logo
+{
+
+    float:left;
+    height: 200px;
+    width: auto;
+}
+
+fieldset
+{
+    width: 50%;
+    position: relative;
+    text-align: center;
+    left: 300px
+}
+
+nav 
+{
+    color: blue;
+    border: 2px solid black;
+    text-align: center;
+    position:relative;
+    font-family: "Times New Roman";
+    font-size: 30px;
+    background-color: gainsboro;
+}
+
+footer
+{
+    border: 2px solid black;
+    text-align: center;
+    position:relative;
+    font-family: "Times New Roman";
+    font-size: 25px;
+    top: 100px;
+    background-color: gainsboro;
+    
+}
+
+article
+{
+    position:relative;
+    top: 25px;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    border: 2px solid black;
+    text-align: justify;
+    padding: 25px;
+    height: 700px;
+}
+
+#titre
+{
+  position: relative;
+  top:20px;
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 70px;
+  color: rgb(255,107,7);
+}
+
+.obligatoire
+{
+    color: rgb(255,107,7);
+}
+
+#mail
+{
+    width: 150px;
+}
+
+#envoyer
+{
+    padding: 1em;
+    border: 2px solid rgb(255,107,7);
+    border-radius: 30px;
+    font-size: 18px;
+}
+a
+{
+    color: rgb(255,107,7);
+}
+
+
