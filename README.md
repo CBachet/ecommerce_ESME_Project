@@ -1,5 +1,5 @@
 # ecommerce_ESME_Project
-Un projet pour valider le module de PHP à l'ESME Sudria (école d'ingénieur française). 
+Un projet pour valider le module de PHP à l'ESME Sudria (école d'ingénieur française). (2019)
 Le but de ce projet était de créer un site web pour une fausse entreprise vendant du matériel informatique ( sujet dans le répertoire)
 
 En lancant index.php, la base de données nécessaire au fonctionnement du site sera automatiquement créée, avec des données, pour faciliter une demonstration du site.
